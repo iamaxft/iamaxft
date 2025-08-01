@@ -1,12 +1,3 @@
-🙌 Hey there, Hasan here, I am a Python Developer specializing in making automation systems, 
-I like to make software/applications with AI that can help anyone to automate their work or task. 
-
-🔥 Have made projects related to AR (Augmented Reality).
-
-😎 I am also a Content Creator based in Gaming/Singing domain.
-
-⭐ I post videos on [Instagram](https://www.instagram.com/axft_08) & [Youtube](https://www.youtube.com/@Axft-08) 
-
 # 💫 About Me:
 🙌 Hey there, Hasan here, I am a Python Developer specializing in making automation systems, <br>I like to make software/applications with AI that can help anyone to automate their work or task. <br><br>🔥 Have made projects related to AR (Augmented Reality).<br><br>😎 I am also a Content Creator based in Gaming/Singing domain.<br><br>⭐ I post videos on [Instagram](https://www.instagram.com/axft_08) & [Youtube](https://www.youtube.com/@Axft-08) 
 
